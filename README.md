@@ -1,0 +1,2 @@
+GitHub Cards – A Thrilling Front-End Adventure
+Dive into a dynamic front-end experience that fetches real-time data from the GitHub API using Axios. This project transforms user information into visually engaging “cards,” complete with an avatar, bio, and quick links to repositories. Simply enter a GitHub username, and watch the UI spring to life with up-to-date follower stats, repository details, and more. Explore, discover, and get inspired—all in one sleek interface!
